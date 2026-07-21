@@ -40,7 +40,7 @@ const channels = [
     { id: 'PjIQZECDfEI', name: 'modificar id e name' },
     { id: 'PjIQZECDfEI', name: 'modificar id e name' },
     { id: 'PjIQZECDfEI', name: 'modificar id e name' },
-    { id: 'PjIQZECDfEI', name: 'modificar id e name' },
+    { id: 'PjIQZECDfEI', name: 'modificar id e name' }
 ];
 
 // Estado atual
