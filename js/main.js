@@ -1,15 +1,15 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'LakjhD7SWRE', name: 'Organizando os seus dados' },
-    { id: 'e8dQeAIUIs8', name: 'aula - 02' },
-    { id: 'd0jiLHJGRwM', name: 'aula - 03' },
-    { id: 'LAPHMHGdU3o', name: 'aula - 04' },
-    { id: '1fDOyVJFJko', name: 'aula - 05' },
-    { id: 'mpYZGktdB2k', name: 'aula - 06' },
-    { id: 'IhdMJerpMak', name: 'aula - 07' },
-    { id: 'bz7tRRPFd7s', name: 'aula - 08' },
-    { id: 'jRVAD7K1bDU', name: 'aula - 09' },
-    { id: 'NBUJHxwthHA', name: 'aula - 10' }
+    { id: 'EBlrkXLdM_A', name: 'Aprenda edição de vídeo DE GRAÇA - Curso de ADOBE PREMIERE GRATUITO e COMPLETO ' },
+    { id: '1vIsYMgZal8', name: 'Como CRIAR PROJETO no Adobe Premiere 2025' },
+    { id: 'zyVPVajDXHY', name: 'Como CRIAR SEQUÊNCIA no Adobe Premiere 2025' },
+    { id: 'ztncSWmt59g', name: 'INFERFACE, WORKSPACE e PRINCIPAIS JANELAS do Adobe Premiere 2025' },
+    { id: 'YxO3ZLCjwk8', name: 'Forma FÁCIL de IMPORTAR ARQUIVOS para dentro do Adobe Premiere 2025' },
+    { id: 'TZSgDDbqkcw', name: 'Como SE ORGANIZAR no Adobe Premiere 2025' },
+    { id: 'GBDa77KhvFk', name: 'ETIQUETAS do ADOBE PREMIERE! Organização com LABELS coloridas ' },
+    { id: 'evgQiiqgdTM', name: 'Como funciona a TIMELINE (Linha do Tempo) do ADOBE PREMIERE' },
+    { id: 'T4QzDof2Luc', name: 'Ferramentas básicas do Adobe Premiere (Corte, zoom, seleção e texto)' },
+    { id: 'PjIQZECDfEI', name: 'ATALHOS para EDITAR MAIS RÁPIDO no Adobe Premiere' }
 ];
 
 // Estado atual
